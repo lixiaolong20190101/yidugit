@@ -8,6 +8,6 @@ package com.yidu;
  */
 public class Like {
     public static void main(String[] args) {
-        System.out.println("明天会更好！ 今天 明天 都是好日子！");
+        System.out.println("明天会更好！ 今天 明天 都是好日子！天天是个好日子，快乐起来吧");
     }
 }
